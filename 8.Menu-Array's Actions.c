@@ -1,5 +1,5 @@
 /* Menu - Program: Init_array + Print_array + Max_array + Min_array: function */
-// lesson 8: exercise 4 (extra)
+// lesson 8: exercise 5 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
