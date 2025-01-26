@@ -1,5 +1,5 @@
 /* Menu - Program: Program Flow - Switch */
-// lesson 11: exercise 2
+// lesson 11: exercise 2,3
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
