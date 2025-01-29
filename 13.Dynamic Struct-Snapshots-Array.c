@@ -58,16 +58,16 @@ int main()
 
 void read_record(RECORD *p) {
     printf("Enter the name: ");
-    scanf("%s", &p->name);
+    scanf("%s", p->name);
     
     printf("Enter the address: ");
-    scanf("%s", &p->address);
+    scanf("%s", p->address);
     
     printf("Enter the address number: ");
-    scanf("%s", &p->number);
+    scanf("%s", p->number);
     
     printf("Enter the address state: ");
-    scanf("%s", &p->state);
+    scanf("%s", p->state);
     
 }
 
